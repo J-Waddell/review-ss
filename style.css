@@ -5,3 +5,14 @@
 .steakandshake {
   color: black;
 }
+
+/*form stylin*/
+
+@import url(https://fonts.googleapis.com/css?family=Lato:100,300,400);
+
+input::-webkit-input-placeholder, textarea::-webkit-input-placeholder {
+  color: #aca49c;
+  font-size: 0.875em;
+}
+
+input:focus::-webkit-input-placeholder
